@@ -1,4 +1,4 @@
-## 🚀 **Hi! I'm Govind Kumar**  
+##  **Hi! I'm Govind Kumar** 😄
 - 👀 interested in Data and Coding
 - 😄 Pronouns: mr: he/him/his 😄
 - ⚡ Fun fact: I always go for things that scare me more...
