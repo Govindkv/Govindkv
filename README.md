@@ -1,7 +1,7 @@
 ##  **Hi! I'm Govind Kumar** 😄
 - 👀 interested in Data and Coding
 - 😄 Pronouns: mr: he/him/his 😄
-- ⚡ Fun fact: I always go for things that scare me more...
+- ⚡ Fun fact: I always go for the thing that scares me the most...
 
 🎯 **Data Scientist | Data Analyst | AI Enthusiast**  
 🔍 Passionate about **Data Science, AI, and Machine Learning**, I specialize in **predictive modeling, data visualization, and MLOps**.  
