@@ -3,7 +3,7 @@
 - 😄 Pronouns: mr: he/him/his 😄
 - ⚡ Fun fact: I always go for the thing that scares me the most...
 
-🎯 **Data Scientist | Data Analyst | AI Enthusiast**  
+🎯 **Data Scientist | Data Analyst | AI Enthusiast | Open Source Contributor**  
 🔍 Passionate about **Data Science, AI, and Machine Learning**, I specialize in **predictive modeling, data visualization, and MLOps**.  
 📊 I love transforming **raw data into valuable insights** and deploying **AI solutions at scale**.  
 
